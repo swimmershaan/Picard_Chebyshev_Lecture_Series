@@ -1,2 +1,3 @@
 *.MATLABDriveTag
 !spec/*.MATLABDriveTag.DS_Store
+.DS_Store
